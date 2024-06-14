@@ -10,9 +10,7 @@ import java.util.ArrayList;
 import java.util.Properties;
 
 public class DataBase
-{
-     
-     
+{ 
        static boolean start;
     private static PreparedStatement createTable;
     private static PreparedStatement addBook;
