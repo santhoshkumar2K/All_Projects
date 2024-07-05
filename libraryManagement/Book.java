@@ -12,7 +12,6 @@ public class Book
    private String language;
    private int copies;
    private int issue;
-
      public Book(String name,String author,double price,Date publishedDate,String publisher,String language)
      {
          this.bookName=name;
